@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15453283707",
+    "project_id": "okstich-5d411",
+    "storage_bucket": "okstich-5d411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15453283707:android:ce1c8eba57aaf3376749de",
+        "android_client_info": {
+          "package_name": "com.okstitch.okstitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15453283707-289v3t83gs65fn3pohlq6anj928imevu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZcLHZaQZNtgFcVfBv8iD9w2FepbYxLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15453283707-289v3t83gs65fn3pohlq6anj928imevu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
