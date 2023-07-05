@@ -58,8 +58,6 @@ class _StitchOnBoardState extends State<StitchOnBoard>
 
   @override
   Widget build(BuildContext context) {
-
-
   _panelHeightOpen = MediaQuery.of(context).size.height;
     _panelHeightClosed = MediaQuery.of(context).size.height/3;
     return Stack(
@@ -68,6 +66,7 @@ class _StitchOnBoardState extends State<StitchOnBoard>
         GoogleMap(
           initialCameraPosition: _kGoogle,
           mapType: MapType.normal,
+
           scrollGesturesEnabled: true,
           zoomControlsEnabled: false,
           buildingsEnabled: false,
