@@ -66,7 +66,6 @@ class _StitchOnBoardState extends State<StitchOnBoard>
         GoogleMap(
           initialCameraPosition: _kGoogle,
           mapType: MapType.normal,
-
           scrollGesturesEnabled: true,
           zoomControlsEnabled: false,
           buildingsEnabled: false,
